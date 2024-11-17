@@ -1,0 +1,13 @@
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-20240817_102542.cfg
+printer-20240817_103312.cfg
+printer-20240817_104543.cfg
+printer-20240818_090734.cfg
+printer-20240820_173040.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
